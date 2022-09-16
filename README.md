@@ -1,16 +1,20 @@
-# shop_it_new
+# MusicPlayer
+![Flutter](https://img.shields.io/badge/Status-Active-brightgreen)
+![Dart](https://img.shields.io/badge/Kotlin-100%25-brightgreen)
 
-A new Flutter project.
+<b>Simple Flutter UI For Shopping Cart (For Education Purpose)</b></br>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br>
+<img src="https://github.com/HarshAndroid/ShopIt-Flutter/blob/master/assets/1.png" width=30% height=30%/>
+<img src="https://github.com/HarshAndroid/ShopIt-Flutter/blob/master/assets/2.png" width=30% height=30%/>
+<img src="https://github.com/HarshAndroid/ShopIt-Flutter/blob/master/assets/3.png" width=30% height=30%/>
+<img src="https://github.com/HarshAndroid/ShopIt-Flutter/blob/master/assets/4.png" width=30% height=30%/>
+<br>
+<br>
+  
+<b>Watch Full Playlist on Youtube:</b>
+  https://youtube.com/playlist?list=PL8kbUJtS6hyYReliBdeOli7nUXSN4HUjZ
+  <br><br>
+  <b>Note:</b> This Project is Just a Simple UI With Some Basic Functionalities (No Database or Backend is Used)
+  
+  For Feedback or Suggestions Mail Me At rajpurohitharsh2020@gmail.com 🙂
