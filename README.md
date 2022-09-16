@@ -1,6 +1,6 @@
-# MusicPlayer
-![Flutter](https://img.shields.io/badge/Status-Active-brightgreen)
-![Dart](https://img.shields.io/badge/Kotlin-100%25-brightgreen)
+# Shop It (Flutter)
+![Flutter](https://img.shields.io/badge/Flutter-UI-brightgreen)
+![Dart](https://img.shields.io/badge/Dart-100%25-brightgreen)
 
 <b>Simple Flutter UI For Shopping Cart (For Education Purpose)</b></br>
 
