@@ -4,7 +4,7 @@
 
 <b>Simple Flutter UI For Shopping Cart (For Education Purpose)</b></br>
 
-<b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br>
+<b>Some ScreenShots of UI😃:</b></br>
 <img src="https://github.com/HarshAndroid/ShopIt-Flutter/blob/master/assets/1.png" width=30% height=30%/>
 <img src="https://github.com/HarshAndroid/ShopIt-Flutter/blob/master/assets/2.png" width=30% height=30%/>
 <img src="https://github.com/HarshAndroid/ShopIt-Flutter/blob/master/assets/3.png" width=30% height=30%/>
